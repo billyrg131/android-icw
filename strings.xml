@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IntentCalcWebview</string>
+    <string name="btn_calc">Calculator</string>
+    <string name="btn_intent">Intent</string>
+    <string name="btn_webview">Web</string>
+    <string name="calc_name">My Calculator</string>
+    <string name="num1">Enter number 1</string>
+    <string name="num2">Enter number 2</string>
+    <string name="add_calc">+</string>
+    <string name="minus_calc">-</string>
+    <string name="divide_cals">/</string>
+    <string name="multiply_calc">*</string>
+    <string name="mod">%</string>
+    <string name="equal_calc">=</string>
+    <string name="webname">WebView</string>
+    <string name="answer">Answer Shown Here</string>
+    <string name="sms">SMS</string>
+    <string name="emailtxt">EMAIL</string>
+    <string name="stk">STK</string>
+    <string name="share">SHARE</string>
+    <string name="dial">DIAL</string>
+    <string name="call">CALL</string>
+    <string name="intent">Intent</string>
+    <string name="inputPhoneNo">Enter phone number</string>
+    <string name="camera">CAMERA</string>
+    <string name="menu">MENU</string>
+    <string name="clear">C</string>
+    <string name="actioncall">ACTION CALL</string>
+    <string name="alert">ALERT</string>
+    <string name="dialog">DIALOG</string>
+    <string name="listActivity">LISTVIEW</string>
+
+
+</resources>
